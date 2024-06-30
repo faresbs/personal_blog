@@ -27,11 +27,30 @@ I have a strong background in AI research and development, with expertise in mac
 - **Programming Languages**: Python, C++
 - **Deep Learning Frameworks**: TensorFlow, Keras, PyTorch
 - **Libraries & Tools**: NumPy, Pandas, Scikit-learn, OpenCV, Git, AWS, GCP
+- **Deep Learning Frameworks**: TensorFlow, Keras, PyTorch (preferred)
+- **Machine learning**: Data analysis & visualization (Matplotlib, Plotly..etc), Advanced statistics, Probability, Advanced Calculus, Linear
+algebra and optimization
+- **Libraries & Tools**: NumPy, Pandas, Scikit-learn, OpenCV, Git, AWS, GCP, Asure
+- **Deep learning (Theoretical & Practical)**: Neural Networks & Convolutional neural networks (CNNs), Recurrent Networks (RNN, GRU
+and LSTM), Generative Models (GAN, VAE), Reinforcement Learning (Q-learning, Sarsa, PPO..etc)
+- **Mila Course (Prof. Aaron Courville)** - Representation Learning (IFT 6135) Winter-2019, Grade: A-
+- **Computer Vision**: Image classification and segmentation, Object and anomaly detection, Video and Image Analysis
+- **Speech Recognition**: Lightweight Wakeword Detection, Command detection, ASR, Speech-to-Text and Text-to-Speech
+- **Natural Language Processing**:Text classification, Language modelling, Machine translation
+- **Soft Skills**: Worked in high-paced startup environments, Led R&D ML projects, Team Player with efficient communication skills,
+Positive force and a good motivator, Effective in both spoken and written English and French
 
 ## Projects
 
+### Sign Language Recognition & Translation (2019)
+
+Build a system that interprets a sequence of images, representing sign language, and generates a coherent textual translation
+in spoken language. 
+- [GitHub project Link](https://github.com/faresbs/san))
+
 ### Sign Language Tutoring System
 An automated system that teaches sign language to non-deaf users, featuring real-time gesture recognition and an ergonomic Human-Machine Interaction Interface.
+- [GitHub project Link](https://github.com/faresbs/sign-language-tutor))
 
 ### Using AI for Automated Hydroponic Growing System
 A smart hydroponic system that uses AI to control indoor settings and detect plant anomalies and diseases.
