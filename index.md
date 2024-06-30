@@ -50,6 +50,6 @@ Feel free to reach out or follow my work through the links below:
 - [LinkedIn](https://www.linkedin.com/in/fares-ben-slimane/)
 - [GitHub](https://github.com/faresbs)
 
-[Download my full CV](downloads/cv.pdf)
+[Download my full CV](downlaods/cv.pdf)
 
 Thank you for visiting my blog! I hope you find my projects and insights valuable.
