@@ -1,6 +1,4 @@
 theme: minima
-url: "https://<faresbs1.github.io" # or your custom domain
-baseurl: "" # leave empty for the root site or specify a subpath
 title: Personal Blog
 author: Fares Ben Slimane
 description: None
