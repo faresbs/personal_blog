@@ -1,87 +1,46 @@
-Fares Ben Slimane
-=================
+# Welcome to My Blog
 
-  
+Hello and welcome to my personal blog! My name is **Fares Ben Slimane**, and I am a Computer Vision and AI enthusiast. I graduated with a Master's degree in Computer Science, specializing in Artificial Intelligence, from the University of Quebec at Montreal (UQAM). I am currently working as a Machine Learning Software Developer, focusing on creating innovative AI solutions to solve real-world problems.
 
-##### Computer Science Student
+## About Me
 
-farris.benslimane@gmail.com
+![Fares Ben Slimane](images/profile.jpg)
 
-[
+I have a strong background in AI research and development, with expertise in machine learning, speech recognition, and computer vision. My passion lies in leveraging technology to make a positive impact on the world. Here are a few highlights from my professional journey:
 
-](mailto:farris.benslimane@gmail.com "E-mail")[](https://github.com/faresbs "Github")
+- **AI Mentor at OpenClassroom**: I instruct advanced AI courses to professionals, covering topics such as data analysis, classical ML, NLP, CV, and AI project management.
+- **Machine Learning Developer at Fluent.ai**: I contributed to the development and integration of AI models, reducing model sizes and improving performance in multi-wakeword scenarios.
+- **R&D Machine Learning Developer at Hummingbirds AI**: I implemented state-of-the-art computer vision algorithms and led research initiatives to address real-world challenges.
 
-* * *
+## Technical Skills
 
-##### Hey, Welcome
+- **Programming Languages**: Python, C++
+- **Deep Learning Frameworks**: TensorFlow, Keras, PyTorch
+- **Libraries & Tools**: NumPy, Pandas, Scikit-learn, OpenCV, Git, AWS, GCP
 
-I am a Computer vision and AI enthusiast. I graduated from University of Quebec at Montreal (UQAM) with a concentration in Artificial Intelligence. I am currently working as a Machine Learning Software Developer at [Hummingbirds AI](http://hummingbirds.ai/) . I'm interested in Artificial intelligence and Machine learning in which I use to Design, build and implement applications to help solve real-world problems. Here's my [Résumé](/downloads/cv.pdf) .
+## Projects
 
-![My image](images/image.jpg "Me")
+### Sign Language Tutoring System
+An automated system that teaches sign language to non-deaf users, featuring real-time gesture recognition and an ergonomic Human-Machine Interaction Interface.
 
-* * *
+### Using AI for Automated Hydroponic Growing System
+A smart hydroponic system that uses AI to control indoor settings and detect plant anomalies and diseases.
 
-Projects
---------
+### Tracking and Predicting Student Performance
+A predictive model that tracks students' academic performance and forecasts future success using data from UQAM's SPARI.
 
-###### **Sign Language Tutoring System**
+## Publications and Talks
 
-*   Automated system that teaches sign language to non-deaf users.
-    
-*   Evaluate the user's gestures using a recognition system in real time.
-*   Learning sign language alphabet (ASL) and some basic signs.
-*   Ergonomic Human Machine Interaction Interface (HMI), easy to use and adapted to learning different sign languages (ASL / LSQ).
-*   Evaluate the user's gestures using a recognition system in real time.
-  
-[(here to find more...)]({https://github.com/faresbs/sign-language-tutor)
+- **Conference Paper**: Context Matters: Self-Attention for Sign Language Recognition (ICPR 2020)
 
-###### **Using Artificial intelligence for automated hydroponic growing system**
+## Connect with Me
 
-Fares Ben Sliman & Mohamed Chedli Ben Yaghlane
+Feel free to reach out or follow my work through the links below:
+- [Email](mailto:farris.benslimane@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/fares-ben-slimane/)
+- [GitHub](https://github.com/faresbs)
 
-*   Build a prototype of a smart hydroponic growing system.
-*   Automatically control the indoor settings using artificial intelligence and rule based system.
-*   Detect plant anomalies and diseases through the leaf plant appearance using CNN.
 
-###### **Tracking and predicting student performance in university**
+[Download my full CV](downloads/cv.pdf)
 
-Fares Ben Sliman & Khalid MOUSTAPHA ASKIA
-
-*   Tracking students’ academic performance and accurately predicting their future performance. We used the massive dataset collected by the ['Service de Planification Académique et de Recherche Institutionnelle' (SPARI)](https://spari.uqam.ca/) of the Univeristy of Quebec at Montreal (UQAM).  
-    [(here to find more.)](/downloads/fares2019.pdf)
-    
-
-###### **You can check my other projects and mini-projects on my Github :)**
-
-* * *
-
-Recent Posts
-------------
-
-[
-
-### Logistic regression model that learns how to count
-
-](posts/post1/post1.html)
-
-##### Jan, 2018
-
-How to build a Logistic regression model from scratch using Python that learns how to count digits from 0 to 9.
-
-[
-
-### Train an AI agent using RL
-
-](posts/post2/post2.html)
-
-##### Sep, 2018
-
-Soon.
-
-[See more..](posts/all_posts.html)
-
-* * *
-
-[
-
-](mailto:farris.benslimane@gmail.com "E-mail")[](https://github.com/faresbs "Github")
+Thank you for visiting my blog! I hope you find my projects and insights valuable.
