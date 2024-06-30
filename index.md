@@ -4,7 +4,7 @@ Hello and welcome to my personal blog! My name is **Fares Ben Slimane**, and I a
 
 ## About Me
 
-![Fares Ben Slimane](images/fares_profile.jpg)
+![Fares Ben Slimane](images/profile.jpg)
 
 I have a strong background in AI research and development, with expertise in machine learning, speech recognition, and computer vision. My passion lies in leveraging technology to make a positive impact on the world. Here are a few highlights from my professional journey:
 
