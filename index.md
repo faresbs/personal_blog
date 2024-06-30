@@ -46,11 +46,11 @@ Positive force and a good motivator, Effective in both spoken and written Englis
 
 Build a system that interprets a sequence of images, representing sign language, and generates a coherent textual translation
 in spoken language. 
-- [GitHub project Link](https://github.com/faresbs/san))
+- [GitHub project Link](https://github.com/faresbs/san)
 
 ### Sign Language Tutoring System
 An automated system that teaches sign language to non-deaf users, featuring real-time gesture recognition and an ergonomic Human-Machine Interaction Interface.
-- [GitHub project Link](https://github.com/faresbs/sign-language-tutor))
+- [GitHub project Link](https://github.com/faresbs/sign-language-tutor)
 
 ### Using AI for Automated Hydroponic Growing System
 A smart hydroponic system that uses AI to control indoor settings and detect plant anomalies and diseases.
