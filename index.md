@@ -45,7 +45,7 @@ A predictive model that tracks students' academic performance and forecasts futu
 
 ## Latest Posts
 
-- [Teaching a model how to count with Logistic regression (Jan, 2017)](/_posts/2017-01-02.md)
+- [Teaching a model how to count with Logistic regression (Jan, 2017)](_posts/2017-01-02.md)
 
 ## Connect with Me
 
