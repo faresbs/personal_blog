@@ -43,6 +43,10 @@ A predictive model that tracks students' academic performance and forecasts futu
 
 - **Conference Paper**: Context Matters: Self-Attention for Sign Language Recognition (ICPR 2020)
 
+## Latest Posts
+
+- [Teaching a model how to count with Logistic regression (Jan, 2017)](/_posts/2017-01-02.md)
+
 ## Connect with Me
 
 Feel free to reach out or follow my work through the links below:
