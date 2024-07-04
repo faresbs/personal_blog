@@ -3,5 +3,5 @@ title: Personal Blog
 author: Fares Ben Slimane
 description: None
 email: farris.benslimane@gmail.com
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/personal_blog" # the subpath of your site, e.g. /blog
 url: "https://faresbs.github.io" # the base hostname & protocol for your site
