@@ -32,9 +32,9 @@ I have a strong background in AI research and development, with expertise in mac
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ 2017-01-02.md }}">{{ post.title }}</a>
+      <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
-  {% end for %}
+  {% endfor %}
 </ul>
 
 ## Technical Skills
