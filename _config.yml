@@ -18,13 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-theme: minima
 title: Personal Blog
 author: Fares Ben Slimane
 description: None
 email: farris.benslimane@gmail.com
-baseurl: "/personal_blog" # the subpath of your site, e.g. /blog
-url: "https://faresbs.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://faresbs.github.io/personal_blog" # the base hostname & protocol for your site
 github_username:  faresbs
 
 # Build settings
