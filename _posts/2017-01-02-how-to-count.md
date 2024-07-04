@@ -1,8 +1,6 @@
+# Teaching a model how to count with Logistic regression
+## Date: 2017-01-02
 
----
-title: "Teaching a model how to count with Logistic regression"
-date: 2017-01-02
----
 
 ##### Requirements :
 
