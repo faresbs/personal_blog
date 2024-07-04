@@ -35,7 +35,7 @@ I have a strong background in AI research and development, with expertise in mac
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
-</ul>
+</ul> 
 
 ## Technical Skills
 
