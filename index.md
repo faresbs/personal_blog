@@ -29,7 +29,13 @@ I have a strong background in AI research and development, with expertise in mac
 
 ## Latest Posts
 
-- [Teaching a model how to count with Logistic regression (Jan, 2017)](_posts/2017-01-02.md)
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ 2017-01-02.md }}">{{ post.title }}</a>
+    </li>
+  {% end for %}
+</ul>
 
 ## Technical Skills
 
