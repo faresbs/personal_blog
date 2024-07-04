@@ -29,7 +29,7 @@ I have a strong background in AI research and development, with expertise in mac
 
 ## Latest Posts
 
-- [Teaching a model how to count with Logistic regression (Jan, 2017)](../_posts/2017-01-02.md)
+- [Teaching a model how to count with Logistic regression (Jan, 2017)](personal_blog/_posts/2017-01-02.md)
 
 ## Technical Skills
 
