@@ -2,3 +2,6 @@ theme: minima
 title: Personal Blog
 author: Fares Ben Slimane
 description: None
+email: farris.benslimane@gmail.com
+baseurl: "/personal_blog" # the subpath of your site, e.g. /blog
+url: "https://faresbs.github.io" # the base hostname & protocol for your site
