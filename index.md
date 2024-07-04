@@ -1,3 +1,8 @@
+---
+title: Home
+layout: none
+---
+
 <div style="position: relative;">
     <img src="images/cover.jpg" alt="Cover Photo" style="width: 100%; height: auto;" />
     <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; color: white;">
