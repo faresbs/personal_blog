@@ -4,6 +4,9 @@
     </div>
 </div>
 
+<i>About the picture: <\i>
+It is from my last boat trip around the Komodo islands in Indonesia. It is a magical place with amazing views, beaches, people, and also dragons. I strongly recommend everyone to visit it. 
+
 # Hello and welcome! 
 
 ---
