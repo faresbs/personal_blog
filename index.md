@@ -16,11 +16,18 @@ Hello and welcome to my personal blog! My name is **Fares Ben Slimane**, and I a
     <img src="images/profile.jpg" alt="Fares Ben Slimane" style="width:200px; border-radius: 50%;" />
 </div>
 
+<hr>
+<hr>
+
 I have a strong background in AI research and development, with expertise in machine learning, speech recognition, and computer vision. My passion lies in leveraging technology to make a positive impact on the world. Here are a few highlights from my professional journey:
 
 - **AI Mentor at OpenClassroom**: I instruct advanced AI courses to professionals, covering topics such as data analysis, classical ML, NLP, CV, and AI project management.
-- **Machine Learning Developer at Fluent.ai**: I contributed to the development and integration of AI models, reducing model sizes and improving performance in multi-wakeword scenarios.
+- **Machine Learning Developer at Fluent.ai**: I contributed to developing and integrating AI models, reducing model sizes and improving performance in multi-wakeword scenarios.
 - **R&D Machine Learning Developer at Hummingbirds AI**: I implemented state-of-the-art computer vision algorithms and led research initiatives to address real-world challenges.
+
+## Latest Posts
+
+- [Teaching a model how to count with Logistic regression (Jan, 2017)](../_posts/2017-01-02.md)
 
 ## Technical Skills
 
@@ -61,10 +68,6 @@ A predictive model that tracks students' academic performance and forecasts futu
 ## Publications and Talks
 
 - **Conference Paper**: Context Matters: Self-Attention for Sign Language Recognition (ICPR 2020)
-
-## Latest Posts
-
-- [Teaching a model how to count with Logistic regression (Jan, 2017)](_posts/2017-01-02.md)
 
 ## Connect with Me
 
