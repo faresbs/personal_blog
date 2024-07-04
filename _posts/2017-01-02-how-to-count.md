@@ -1,7 +1,8 @@
-# _posts/2024-01-01-my-first-post.md
 ---
-title: "Teaching a model how to count with Logistic regression"
-date: 2017-01-02
+layout: post
+title:  "Teaching a model how to count with Logistic regression"
+date:   2017-01-02
+categories: Machine learning
 ---
 
 ##### Requirements :
