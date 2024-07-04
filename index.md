@@ -4,11 +4,9 @@
     </div>
 </div>
 
-# Welcome To my blog
+# Hello and welcome! 
 
 ---
-
-Hello and welcome! 
 
 My name is **Fares Ben Slimane**, and I am a Computer Vision and AI enthusiast. I graduated with a Master's degree in Computer Science, specializing in Artificial Intelligence, from the University of Quebec at Montreal (UQAM). I currently work as a Machine Learning Software Developer, creating innovative AI solutions to solve real-world problems.
 
@@ -18,8 +16,8 @@ My name is **Fares Ben Slimane**, and I am a Computer Vision and AI enthusiast. 
     <img src="images/profile.jpg" alt="Fares Ben Slimane" style="width:200px; border-radius: 50%;" />
 </div>
 
-<hr>
-<hr>
+---
+---
 
 I have a strong background in AI research and development, with expertise in machine learning, speech recognition, and computer vision. My passion lies in leveraging technology to make a positive impact on the world. Here are a few highlights from my professional journey:
 
@@ -29,7 +27,7 @@ I have a strong background in AI research and development, with expertise in mac
 
 ## Latest Posts
 
-- [Teaching a model how to count with Logistic regression (Jan, 2017)](personal_blog/_posts/2017-01-02.md)
+- [Teaching a model how to count with Logistic regression (Jan, 2017)](_posts/2017-01-02.md)
 
 ## Technical Skills
 
