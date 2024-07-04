@@ -8,7 +8,9 @@
 
 ---
 
-Hello and welcome to my personal blog! My name is **Fares Ben Slimane**, and I am a Computer Vision and AI enthusiast. I graduated with a Master's degree in Computer Science, specializing in Artificial Intelligence, from the University of Quebec at Montreal (UQAM). I am currently working as a Machine Learning Software Developer, focusing on creating innovative AI solutions to solve real-world problems.
+Hello and welcome! 
+
+My name is **Fares Ben Slimane**, and I am a Computer Vision and AI enthusiast. I graduated with a Master's degree in Computer Science, specializing in Artificial Intelligence, from the University of Quebec at Montreal (UQAM). I currently work as a Machine Learning Software Developer, creating innovative AI solutions to solve real-world problems.
 
 ## About Me
 
@@ -33,12 +35,13 @@ I have a strong background in AI research and development, with expertise in mac
 
 - **Programming Languages**: Python, C++
 - **Deep Learning Frameworks**: TensorFlow, Keras, PyTorch
-- **Libraries & Tools**: NumPy, Pandas, Scikit-learn, OpenCV, Git, AWS, GCP
+- **Libraries & Tools**: NumPy, Pandas, Scikit-learn, OpenCV, TensorRT, ONNX, Git, AWS, GCP, Asure
 - **Deep Learning Frameworks**: TensorFlow, Keras, PyTorch (preferred)
-- **Machine learning**: Data analysis & visualization (Matplotlib, Plotly..etc), Advanced statistics, Probability, Advanced Calculus, Linear
-algebra and optimization
-- **Libraries & Tools**: NumPy, Pandas, Scikit-learn, OpenCV, Git, AWS, GCP, Asure
+- **Machine learning**: Data analysis & visualization (Matplotlib, Plotly..etc), Supervised classification and regression ML algorithms,
+unsupervised ML algorithms, Advanced statistics, Probability, Advanced Calculus, Linear algebra and optimization
 - **Deep learning (Theoretical & Practical)**: Neural Networks & Convolutional neural networks (CNNs), Recurrent Networks (RNN, GRU
+and LSTM), Transformers (attention-based models), Generative Models (GAN, VAE), Reinforcement Learning (Q-learning, Monte Carlo,
+Sarsa, PPO..etc)
 and LSTM), Generative Models (GAN, VAE), Reinforcement Learning (Q-learning, Sarsa, PPO..etc)
 - **Mila Course (Prof. Aaron Courville)** - Representation Learning (IFT 6135) Winter-2019, Grade: A-
 - **Computer Vision**: Image classification and segmentation, Object and anomaly detection, Video and Image Analysis
